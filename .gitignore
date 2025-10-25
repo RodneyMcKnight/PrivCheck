@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.json
+*.html
+privcheck_venv/
+.venv/
+
